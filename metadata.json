@@ -1,0 +1,6 @@
+{
+  "name": "Abang Sehat Studio",
+  "description": "Jasa Pembuatan Video AI Promosi, Edukasi, dan Panduan Konten UMKM terintegrasi Database Google Spreadsheet",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
